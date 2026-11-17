@@ -32,7 +32,8 @@ a página aparece sem estilo.
 - [ ] Seção 1: dificuldades (ao marcar uma, abre alternativas e um campo de detalhe obrigatório; é possível marcar várias)
 - [ ] Seções 2.1, 2.2 e 3
 - [ ] Armazenamento dos dados (a definir)
+
 ## Autoria
 
-Rodryck Ferreira dos Santos — Informática, 1º ano, IFPI Campus Angical.
+Rodryck Ferreira dos Santos — Informática, 1º ano, Instituto Federal do Piauí (IFPI), Campus Angical.
 Código base fornecido pelo professor.
